@@ -1,1 +1,2 @@
-Ini cuma test file, udah commit apa belum.
+Hi.
+This just a test file to understand how it works.
