@@ -13,7 +13,7 @@ Please write us if you have any feedback.
 Thanks.
 
 NOTE
-----
+---
 The master branch will always contain the latest stable version. If you wish
 to check older versions or newer ones currently under development, please
 switch to the relevant branch.
@@ -35,3 +35,7 @@ Then you'll need to create the database and initialize schema:
 
     echo 'CREATE DATABASE invo' | mysql -u root
     cat schemas/invo.sql | mysql -u root invo
+
+TEST
+----
+Test Commit branch di GitHub
